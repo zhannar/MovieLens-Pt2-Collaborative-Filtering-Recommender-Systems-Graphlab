@@ -20,4 +20,7 @@ The project's files are organized into the following structure:
 
 <p align="center">
 <img src="/Visualizations/movie_stats.png" width="600" />
+<img src="/Visualizations/Ranking_Factorization_Recommender_sample_outputA.png" width="600" />
+<img src="/Visualizations/Ranking_Factorization_Recommender_sample_outputB.png" width="600" />
+<img src="/Visualizations/Ranking_Factorization_Recommender_sample_outputC.png" width="600" />
 </p>
