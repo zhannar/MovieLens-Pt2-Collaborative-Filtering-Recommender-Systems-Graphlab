@@ -1,5 +1,4 @@
-# Movie Recommender with MovieLens Dataset
-
+# MovieLens-Pt2-Collaborative-Filtering-Recommender-Systems-Graphlab
 ## Project Summery: 
 
 Used collaborative filtering to produce a movie ratings classifier and recommender. Used the Netflix Prize's top 10 performers to perform benchmarking and placed 6th. Also explored content- filtering models using dimensionality reduced features and k-means, naive bayes, decision trees, and random forests classifiers.
